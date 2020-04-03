@@ -9,7 +9,7 @@ Disclaimer
 
 ### So So Science: the social science behind the weird and interesting 
 
-### Academic Resource
+### Academic Work
 
 A walkthrough of my Inferred Distribution Model - of how a person may guess what the probability density function of their samples are and how rank-based valuations and context effects may come from this.
 [The IBD model](IBDm_md.md)
