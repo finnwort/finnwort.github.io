@@ -3,6 +3,7 @@ layout: post
 title: "Inferred Beta Distribution Model"
 date: 2020-03-04
 categories: rmdblog
+permalink: /IBDm/
 ---
 <style>
 body {
