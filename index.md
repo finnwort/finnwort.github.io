@@ -1,5 +1,5 @@
 
-### Welcome to This Blog
+### Welcome to So So Science
 
 The world is full of quirks and interesting things. The aim of this blog is simply to uncover a few of them and present them. I plan on writing about the important and the trivial, the big and the small. The only thing I hope is that my unusual angle, that spans Economics, Psychology and Data Science, will provide some weird perspectives. That me, and whoever decides to read this, will learn something no matter how small or silly.  
 
@@ -16,6 +16,11 @@ A walkthrough of my Inferred Distribution Model - of how a person may guess what
 
 ### About Me
 
+Finnian Wort
+
+PhD candidate 
+Department of Psychology
+University of Warwick
 
 ### Markdown
 
