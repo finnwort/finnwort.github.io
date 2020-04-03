@@ -11,8 +11,7 @@ The world is full of quirks and interesting things. The aim of this blog is simp
 
 ### Academic Work
 
-A walkthrough of my Inferred Distribution Model - of how a person may guess what the probability density function of their samples are and how rank-based valuations and context effects may come from this.
-[The IBD model](IBDm_md.md)
+[A walkthrough of my Inferred Distribution Model](IBDm_md.md) - of how a person may guess a probability density function based on the samples they have received and how rank-based valuations and context effects may come from this.
 
 ### About Me
 
