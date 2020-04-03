@@ -17,6 +17,7 @@ This is a model for utility of a value based on its ranked position in a set. Th
 
 So we begin by range transforming values ∈ X to values between 0 and 1.
 
+<img src="IBD_model_md_files/figure-markdown_github/eq1.png" width=300 align=right>
 ![](IBD_model_md_files/figure-markdown_github/eq1.png)
 
 As an example, I am going to do this with one set of values. Just a set of 8 values between 0 to 10: 0, 1, 3, 4, 5, 6, 7, 10
