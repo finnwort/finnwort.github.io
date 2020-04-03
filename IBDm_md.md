@@ -66,6 +66,8 @@ beta
 
 From these calculations so far, we can develop an inferred density distribution for the choice set. This is assumed here to be a Beta distribution, fx(x), based on a Beta density function denoted by *β*(*α*, <i>b</i>). This is mainly for logistical reasons as it is easy to visualise, although the predictions given from this restriction to a uniform, mostly single-peak, distribution like this are remarkably good as explanations of a number of heuristic problems people show when evaluating set. Predictions from this restriction to Beta distribution also explain a number of range effects, this will be discussed later on. The formula for Beta and then the probability density function is given below.
 
+![](IBD_model_md_files/figure-markdown_github/Screen Shot 2020-04-03 at 14.25.26.png)
+
 The probability density function is not too useful for deriving value judgements though. The cumulative density function, F(x), gives the percentile of x ∈ X. Therefore, the utility, U(x), is given by an integral of 0 to x of the probability density function (the cumulative density function).
 
 ![](IBD_model_md_files/figure-markdown_github/eq4.png)
