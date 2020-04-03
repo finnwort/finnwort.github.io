@@ -122,7 +122,7 @@ plot(vec, values, main="Inferred Cumulative Density Function",
 ylab="Valuation", xlab = "X")
 ```
 
-![](IBD_model_md_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](IBD_model_md_files/figure-markdown_github/unnamed-chunk-5-1.png){:height="100%" width="100%"}
 
 ``` r
 values <- c()
@@ -133,7 +133,7 @@ plot(vec, values, main="Inferred Probability Density Function",
 ylab="Density", xlab = "x")
 ```
 
-![](IBD_model_md_files/figure-markdown_github/unnamed-chunk-5-2.png)
+![](IBD_model_md_files/figure-markdown_github/unnamed-chunk-5-2.png){:height="100%" width="100%"}
 
 So, what does this model actually bring to the table and what predictions does it make? Below are a list of why this model holds explanatory power and some expected and unique predictions made by it.
 
