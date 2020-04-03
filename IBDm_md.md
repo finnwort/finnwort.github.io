@@ -3,6 +3,9 @@ layout: post
 title: "Inferred Beta Distribution Model"
 date: 2020-03-04
 categories: rmdblog
+output:
+  rmarkdown::html_document:
+    theme: cosmo
 ---
 <style>
 body {
