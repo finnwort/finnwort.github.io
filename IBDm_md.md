@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 date: 2020-03-04
 categories: rmdblog
 ---
