@@ -1,39 +1,25 @@
 
 ### Welcome to This Blog
 
-You can use the [editor on GitHub](https://github.com/finnwort/finnwort.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The world is full of quirks and interesting things. The aim of this blog is simply to uncover a few of them and present them. I plan on writing about the important and the trivial, the big and the small. The only thing I hope is that my unusual angle, that spans Economics, Psychology and Data Science, will provide some weird perspectives. That me, and whoever decides to read this, will learn something no matter how small or silly.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Disclaimer
+- this is not an R blog! Yes R is the primary tool for analysis and presentation but I am not exploring R itself, there are much more qualified people to do that than me.
+- This is also not an academic blog! I may bring in Psychology or drop one of my research projects here but ultimately this is not an advertisement for myself as an academic. 
 
+### So So Science: the social science behind the weird and interesting 
+
+### Academic Resource
+
+A walkthrough of my Inferred Distribution Model - of how a person may guess what the probability density function of their samples are and how rank-based valuations and context effects may come from this.
 [The IBD model](IBDm_md.md)
+
+### About Me
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/finnwort/finnwort.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
