@@ -17,8 +17,11 @@ The world is full of quirks and interesting things. The aim of this blog is simp
 
 Finnian Wort
 
-PhD candidate 
+
+PhD candidate
+
 Department of Psychology
+
 University of Warwick
 
 ### Markdown
