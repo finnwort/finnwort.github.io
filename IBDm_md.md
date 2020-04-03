@@ -8,6 +8,9 @@ categories: rmdblog
 body {
 text-align: justify}
 </style>
+
+#Inferred Beta Distribution Model
+
 This is a model for utility of a value based on its ranked position in a set. This model infers a beta density distribution from available values and then gives utility based on a CDF. It means we are making valuations fully based on where we think a value sits in a set of values, 80th percentile or 50th and so on. The key insight is that range effects, utility based on absolute values, comes about from ranked position, but this is mis-calculated because we don't have all the information and we aggregate across what we know to fill this in. This aggregation to a beta distribution will make it easier and more efficient from a neuroscientific, information-theoretic point of view, but will mean we make mistakes that are predicted by this model and seen in previous empirical work.
 
 ### The model steps
