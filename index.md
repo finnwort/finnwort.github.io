@@ -1,8 +1,3 @@
----
-title: So So Science
----
-
-## The Social Science and Data Behind Weird and Interesting Phenomenon in Music, Sport, Films, and Everything Else
 
 ### Welcome to This Blog
 
