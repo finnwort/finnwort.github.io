@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/finnwort/finnwort.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[The IBD model](https://github.com/finnwort/finnwort.github.io/IBDmodel_html.html)
+[The IBD model](https://github.com/finnwort/finnwort.github.io/IBD_model_md.md)
 
 ### Markdown
 
