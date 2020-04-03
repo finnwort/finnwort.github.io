@@ -6,10 +6,6 @@ indent: yes
 output:
   html_document:
     df_print: paged
-    theme: cosmo
-  html_notebook: default
-  pdf_document: default
-  word_document: default
 header-includes: \usepackage{amsmath}
 ---
 <style>
