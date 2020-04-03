@@ -40,12 +40,11 @@ Next, since we are assuming a beta distribution, the person needs *α* and <i>b<
 
 I suggest *α* reflects the peak of the density distribution. A value for this can be developed by the mean distances from 0.5 in the range transformed distribution. 0.25 divided by this value gives a value for "flatness" of the distribution, as an *α* of 1 is a flat distribution (with <i>b</i> of 1) if the mean distance from the median is 0.25. In other words, *α* = 1 if there is values are equally spread across the distribution space, *α* &gt; 1 if there is a peak within the distribution, and *α* &lt; 1 if the distribution are clustered away from the middle. This is then multiplied by a sensitivity parameter *γ*. Think of *γ* as personal sensitivity to evidence of a peak. People take more convincing to believe values are more likely. There are plenty of predictions and uses to this parameter that will be discussed elsewhere.
 
-![](IBD_model_md_files/figure-markdown_github/Screen Shot 2020-04-03 at 14.28.24.png)
 ![](IBD_model_md_files/figure-markdown_github/eq2.png)
 
 The <i>b</i> parameter then is proposed to reflect the skewness of the distribution as the amount that it is higher or lower than *α* creates a more negative or positively skewed Beta distribution. The skewness of the distribution can be calculated through the sum of the differences to the median (0.5) ∈ X. If this sum is positive the skew is negative and vice versa. Alpha minus this sum times a sensitivity parameter *δ* gives us a value for the inferred ratio of <i>b</i> to *α*. This times *α* gives a <i>b</i> value that is, simply, a ratio of alpha given the skew of the choice set.
 
-![](IBD_model_md_files/figure-markdown_github/eq2.png)
+![](IBD_model_md_files/figure-markdown_github/eq3.png)
 
 Below, see the example for *α* and <i>b</i> calculation for the previous example of values. Note that *γ* and *δ* are held at two and one.
 
@@ -67,13 +66,11 @@ beta
 
 From these calculations so far, we can develop an inferred density distribution for the choice set. This is assumed here to be a Beta distribution, fx(x), based on a Beta density function denoted by *β*(*α*, <i>b</i>). This is mainly for logistical reasons as it is easy to visualise, although the predictions given from this restriction to a uniform, mostly single-peak, distribution like this are remarkably good as explanations of a number of heuristic problems people show when evaluating set. Predictions from this restriction to Beta distribution also explain a number of range effects, this will be discussed later on. The formula for Beta and then the probability density function is given below.
 
-![](IBD_model_md_files/figure-markdown_github/eq3.png)
-
-![](IBD_model_md_files/figure-markdown_github/Screen Shot 2020-04-03 at 14.25.26.png)
+![](IBD_model_md_files/figure-markdown_github/eq4.png)
 
 The probability density function is not too useful for deriving value judgements though. The cumulative density function, F(x), gives the percentile of x ∈ X. Therefore, the utility, U(x), is given by an integral of 0 to x of the probability density function (the cumulative density function).
 
-![](IBD_model_md_files/figure-markdown_github/eq4.png)
+![](IBD_model_md_files/figure-markdown_github/eq5.png)
 
  See the example below that creates a valuation function for the previous values explored.
 
