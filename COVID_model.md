@@ -1,6 +1,7 @@
 ---
 layout: default
 date: 2020-12-04
+categories: Covid model
 ---
 
 # Machine Learning and COVID-19
