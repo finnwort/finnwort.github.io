@@ -13,11 +13,11 @@ The world is full of quirks and interesting things. The aim of this blog is simp
 
 ### About Me
 
+![](image0.jpeg){:height="40%" width="40%"}
+
 Finnian Wort
 
 Finnian.Wort@warwick.ac.uk
-
-![](image0.jpeg){:height="40%" width="40%"}
 
 PhD candidate
 
