@@ -1,5 +1,10 @@
-#Machine Learning and COVID-19
-##When we apply multiple regression to death, cases and country data, what do we learn about different countries and their approach to Coronavirus? 
+---
+layout: default
+date: 2020-12-04
+---
+
+# Machine Learning and COVID-19
+## When we apply multiple regression to death, cases and country data, what do we learn about different countries and their approach to Coronavirus? 
 So, the main aim here is to take a very basic approach and use it to look at the differences that countries make to the predicted deaths they have. Beware the things we learn from this are entirely contextual and it only means something if you understand the numbers we are using and the real-world situation. 
 
 What is the plan? Applying machine learning to create regression estimates for death data per data across all countries, we can find out if certain countries expect more deaths even when the cases increases (so, general infection levels) is taken into account. By looking at this we can get an idea of two things, the efficacy of certain country's strategies and the discrepancy in testing strategies across certain countries. The difference between these two is not clear even post-analysis so this is an interesting case study in how we can have different explanations for the same results (higher coefficients for certain countries). 
@@ -1891,7 +1896,7 @@ df_pf
 
 
 
-##What did we learn? 
+## What did we learn? 
 
 Well, personally I think the most striking thing is the difference between Spain, Italy, France and Germany. Italy perform massively worse even though qualitatively we have seen Spain deal with a similar situation. This, very simply, is probably down to two things. The amount of testing and the fact that Italy do have a rather old population and have seen a worse death % than anyone else. Some, maybe all, of this result could be due to testing though. This is further supported by the fact that Germany perform fantastically and the UK do  very badly. Two countries that seem to be on opposite ends of the testing spectrum. 
 
