@@ -5,7 +5,7 @@ The world is full of quirks and interesting things. The aim of this blog is simp
 
 ### A Science Blog: the social science behind the weird and interesting 
 
-[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](COVID_model.md) - let's see if we can quantify the efficacy of each country in this crisis using a Machine Learning model on all the day-by-day, country-by-country data. 
+[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](COVID_model_1.md) - let's see if we can quantify the efficacy of each country in this crisis using a Machine Learning model on all the day-by-day, country-by-country data. 
 
 ### Academic Work
 
