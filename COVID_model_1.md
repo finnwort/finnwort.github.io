@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2020-13-04
+date: 2020-04-13
 categories: Covid model
 ---
 
