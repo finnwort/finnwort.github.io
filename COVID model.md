@@ -1,5 +1,11 @@
-#Machine Learning and COVID-19
-##When we apply multiple regression to death, cases and country data, what do we learn about different countries and their approach to Coronavirus? 
+---
+layout: default
+date: 2020-12-04
+categories: Covid model
+---
+
+# Machine Learning and COVID-19
+## When we apply multiple regression to death, cases and country data, what do we learn about different countries and their approach to Coronavirus? 
 So, the main aim here is to take a very basic approach and use it to look at the differences that countries make to the predicted deaths they have. Beware the things we learn from this are entirely contextual and it only means something if you understand the numbers we are using and the real-world situation. 
 
 What is the plan? Applying machine learning to create regression estimates for death data per data across all countries, we can find out if certain countries expect more deaths even when the cases increases (so, general infection levels) is taken into account. By looking at this we can get an idea of two things, the efficacy of certain country's strategies and the discrepancy in testing strategies across certain countries. The difference between these two is not clear even post-analysis so this is an interesting case study in how we can have different explanations for the same results (higher coefficients for certain countries). 
