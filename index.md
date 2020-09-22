@@ -3,7 +3,7 @@
 
 ### Blog Posts
 
-[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](COVID_model_1.md) - let's see if we can quantify the efficacy of each country in dealing with this crisis using a Machine Learning model. 
+[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](COVID_model_1.md) - let's see if we can quantify the efficacy of each country in dealing with this crisis using a machine learning model. 
 
 ### Psychology
 
