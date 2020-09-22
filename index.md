@@ -22,10 +22,10 @@ I come from Llangollen in North Wales. I love creating music and I am working on
 
 Finnian.Wort@warwick.ac.uk
 
-https://www.linkedin.com/in/finnian-wort-20242917a/
+[Linkedin](https://www.linkedin.com/in/finnian-wort-20242917a)
 
-https://www.instagram.com/finnstagram3/?hl=en
+[Instagram](https://www.instagram.com/finnstagram3/?hl=en)
 
-https://warwick.ac.uk/fac/sci/psych/research/behaviouralscience/
+[Warwick Behavioural Science Group](https://warwick.ac.uk/fac/sci/psych/research/behaviouralscience)
 
-https://warwick.ac.uk/fac/sci/psych/people/phd/staffprofiles/
+[Warwick Staff Profiles](https://warwick.ac.uk/fac/sci/psych/people/phd/staffprofiles)
