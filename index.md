@@ -1,10 +1,10 @@
 ### Blog Posts
 
-April 2020 [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
+April 2020: [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
 
 ### Psychology
 
-April 2020 [A walkthrough of my Beta Sampling Model](#IBDm_md.md)
+April 2020: [A walkthrough of my Beta Sampling Model](#IBDm_md.md)
 
 ### About Me
 
