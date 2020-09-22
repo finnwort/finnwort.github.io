@@ -1,3 +1,5 @@
+## Homepage
+
 ### Blog Posts
 
 April 2020: [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
@@ -18,7 +20,7 @@ Finnian Joseph Wort
 
 I come from Llangollen in North Wales. I love creating music and I have pretentiously written a surrealist musical about poker players. I play football regularly, particularly small-sided games because I was previously involved with Warwick University Futsal. My favourite book is Thinking, Fast and Slow. My favourite game is Dark Souls. My favourite films are Trainspotting and Inglorious Basterds. I have a family stretched across the country and because of this I seem to spend an ungodly amount of time on trains. 
 
-##### Contact
+### Contact
 
 [Finnian.Wort@warwick.ac.uk]()
 
