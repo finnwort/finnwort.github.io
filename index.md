@@ -16,11 +16,11 @@ Finnian Joseph Wort
 
 ##### Bio
 
-I come from Llangollen in North Wales. I love creating music and I am pretentiously working on a surrealist musical about poker players. I play football regularly, particularly small-sided games because I was previously involved with Warwick University Futsal. My favourite book is Thinking, Fast and Slow. My favourite game is Dark Souls. My favourite films are Trainspotting and Inglorious Basterds. I have a family stretched across the country and because of this I seem to spend an ungodly amount of time on trains. 
+I come from Llangollen in North Wales. I love creating music and I have pretentiously written a surrealist musical about poker players. I play football regularly, particularly small-sided games because I was previously involved with Warwick University Futsal. My favourite book is Thinking, Fast and Slow. My favourite game is Dark Souls. My favourite films are Trainspotting and Inglorious Basterds. I have a family stretched across the country and because of this I seem to spend an ungodly amount of time on trains. 
 
 ##### Contact Information
 
-[Email](Finnian.Wort@warwick.ac.uk)
+[Finnian.Wort@warwick.ac.uk]()
 
 [Linkedin](https://www.linkedin.com/in/finnian-wort-20242917a)
 
