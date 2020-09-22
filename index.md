@@ -4,7 +4,7 @@ April 2020: [A Machine Learning Approach to Discovering How Countries Are Dealin
 
 ### Psychology
 
-April 2020: [A walkthrough of my Beta Sampling Model](#IBDm_md.md)
+April 2020: [A walkthrough of the Beta Sampling Model](#IBDm_md.md)
 
 ### About Me
 
