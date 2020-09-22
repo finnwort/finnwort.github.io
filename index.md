@@ -3,11 +3,11 @@
 
 ### Blog Posts
 
-[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](COVID_model_1.md) - let's see if we can quantify the efficacy of each country in this crisis using a Machine Learning model on all the day-by-day, country-by-country data. 
+[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](#COVID_model_1.md) - let's see if we can quantify the efficacy of each country in this crisis using a Machine Learning model on all the day-by-day, country-by-country data. 
 
 ### Psychology
 
-[A walkthrough of my Inferred Distribution Model](IBDm_md.md) - looking at how a person may guess a probability density function based on the samples they have received and how rank-based valuations and context effects may come from this.
+[A walkthrough of my Inferred Distribution Model](#IBDm_md.md) - a different take on how a person may guess a probability density function based on the samples they have received and how rank-based valuations and context effects may come from this.
 
 ### About Me
 
