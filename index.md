@@ -1,13 +1,10 @@
-
-### Welcome to My Github Page
-
 ### Blog Posts
 
-[A Machine Learning Approach to How Countries Are Dealing With Coronavirus](COVID_model_1.md) - let's see if we can quantify the efficacy of each country in dealing with this crisis using a machine learning model. 
+April 2020 [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
 
 ### Psychology
 
-[A walkthrough of my Inferred Distribution Model](#IBDm_md.md) - a different take on how a person may guess a probability density function based on the samples they have received and how rank-based valuations and context effects may come from this.
+April 2020 [A walkthrough of my Beta Sampling Model](#IBDm_md.md)
 
 ### About Me
 
