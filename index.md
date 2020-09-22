@@ -10,7 +10,9 @@ April 2020: [A walkthrough of the Beta Sampling Model](#IBDm_md.md)
 
 ![](image0.jpeg){:height="40%" width="40%"}
 
-Finnian Wort
+Name: Finnian Joseph Wort
+
+Bio: I come from Llangollen in North Wales. I love creating music and I am working on writing a surrealist musical about poker players. I play football regularly, particularly smaller sided games because I was previously involved with Warwick University Futsal. My favourite book is Thinking, Fast and Slow. my favourite game is Dark Souls. My favourite films are Trainspotting and Inglorious Basterds. I have a family stretched across the country and because of this I seem to spend an ungodly amount of time on trains. 
 
 Finnian.Wort@warwick.ac.uk
 
