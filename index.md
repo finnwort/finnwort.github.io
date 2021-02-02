@@ -6,9 +6,7 @@ April 2020: [A Machine Learning Approach to Discovering How Countries Are Dealin
 
 ### Psychology
 
-April 2020: [An Old Model of Mine](IBDm_md.md)
-
-### Music
+April 2020: [An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
 
 ### Football
 
