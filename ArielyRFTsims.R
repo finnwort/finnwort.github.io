@@ -120,7 +120,7 @@ theme_set(theme_bw())
 #Function takes in a set and other parameters and is then asked a number of times (330 in this case)
 #whether a randomly produced value between testbounds[1] and testbounds[2] is lower or higher than estimated set mean
 #output is graph of data and probit regression fit
-#first value is discrimination threshold (difference in order to be 1 SD away from 50/50 choice)
+#second value outputted is discrimination threshold (difference in order to be 1 SD away from 50/50 choice)
 #PS let me know if this conceptualisation of discrimination threshold is wrong 
 
 discrimthresholdsim <- function(set, testbounds, noisesd, initialsetn, decisionthreshold, h){
@@ -165,8 +165,8 @@ idtestvals <- c(-2.5, -2, -1.5, -1, -0.5, 0, 0.5, 1, 1.5, 2, 2.5)
 set1 <- c(-1.5, -0.5, 0.5, 1.5)
 testvals <- 0.25*(1.4^idtestvals)
 set1 <- 0.25*(1.4^set1)
-noisesd <- 0.03
-threshold <- 0.04
+noisesd <- 0.07
+threshold <- 0.06
 
 value <- c()
 yeschoice <- c()
@@ -192,10 +192,6 @@ plot
 # need very low threshold noise for right disc. threshold
 # very low threshold noise leads to perfect performance in id experiment
 # high perceptual noise and low threshold noise leads to very large discrimination threshold
-
-# somewhat replicates Ariely results w/ perceptual noise = 0.04
-# & similarity threshold = 0.15
-
 
 
 
