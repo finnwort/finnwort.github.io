@@ -1,12 +1,16 @@
 ## Homepage
 
-### Blog Posts
+### Data Science
 
 April 2020: [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
 
 ### Psychology
 
-April 2020: [A Walkthrough of the Beta Sampling Model](#IBDm_md.md)
+April 2020: [An Old Model of Mine](IBDm_md.md)
+
+### Music
+
+### Football
 
 ### About Me
 
