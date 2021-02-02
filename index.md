@@ -10,7 +10,7 @@ April 2020: [A Walkthrough of the Beta Sampling Model](#IBDm_md.md)
 
 ### About Me
 
-![](image0.jpeg){:height="40%" width="40%"}
+![](image0.jpeg){:height="20%" width="20%"}
 
 ##### Name
 
@@ -18,7 +18,7 @@ Finnian Joseph Wort
 
 ##### Bio
 
-I come from Llangollen in North Wales. I love creating music and I have written the soundtrack for a webseries. I play football regularly, particularly small-sided games because I was previously involved with Warwick University Futsal. My favourite book is Thinking, Fast and Slow. My favourite game is Dark Souls. My favourite films are Trainspotting and Inglorious Basterds. I have a family stretched across the country and because of this I seem to spend an ungodly amount of time on trains. 
+Welcome to my page! Originally hailing from Llangollen in North Wales, I am now a PhD student at the University of Warwick. 
 
 ### Contact
 
