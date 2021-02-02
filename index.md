@@ -16,9 +16,9 @@ April 2020: [A Walkthrough of the Beta Sampling Model](#IBDm_md.md)
 
 Finnian Joseph Wort
 
-##### Bio
+##### Introduction 
 
-Welcome to my page! Originally hailing from Llangollen in North Wales, I am now a PhD student at the University of Warwick. 
+Welcome to my page! Originally hailing from Llangollen in North Wales, I am now a PhD student at the University of Warwick. Feel free to read any of the small blog posts I have posted on this page (these are mostly a WIP) or follow the links below to find out more information about me and what I'm doing. 
 
 ### Contact
 
