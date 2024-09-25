@@ -1,7 +1,5 @@
 ## Blog 
 
-### Data Science
-
 [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
 
 [An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
