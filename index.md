@@ -1,6 +1,6 @@
 ## Blog 
 
-[DnD Battle Generator](/dnd_battle/index.html)
+[DnD Battle Generator](/dndbattle/index.html)
 
 [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
 
