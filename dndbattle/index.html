@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battle Generator</title>
+</head>
+<style>
+body{background-color: rgb(39, 157, 173);}
+h1{
+    color: black;
+    text-align: center;
+    font-family: courier;
+}
+.button-yes{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: aquamarine;
+    font-family: courier;
+}   
+img{
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: aquamarine;
+    font-family: courier;
+    width: 100px;
+    height: 100px;
+}
+label{
+    
+    background-color: rgb(39, 157, 173);
+    font-family: courier;
+}
+input[type = "number"] {
+    font-family: courier;
+  }
+.buttonfield{
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+.battletext{
+    position: relative;
+    width: 50%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    left: 25%;
+    background-color: rgb(39, 157, 173);
+    font-family: courier;
+}
+.stats{
+    position: relative;
+    width: 50%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    left: 25%;
+    background-color: rgb(39, 157, 173);
+    font-family: courier;
+}
+</style>
+<body>
+<h1 id = "mainbody">
+    Battle Generator
+</h1>
+<section>
+<button class = "button-yes" id = "btn"> Fight </button>
+<div><img id = 'img' src = "confusedgoblin.png"></div>
+</section>
+<div class = "buttonfield" id="buttons"><p>
+    <label for = "quantity">HP</label>
+    <input type = "number"  id = "hp" name = "hp" min="1" max = "100" required>  
+<label for = "quantity">Armour Class</label>
+<input type = "number" id = "own_ac" name = "own_ac" min="1" max = "20">
+<label for = "quantity">    Attack Modifier</label>
+<input class = "quantity" type = "number" id = "atkmod" name = "atkmod" min="1" max = "10">
+<label for = "quantity">    Number of Damage Dice</label>
+<input type = "number" id = "wpn_dmg_dice" name = "wddice" min="1" max = "20">
+<label for = "quantity">    Dice Type</label>
+<input type = "number" id = "wpn_dmg_die" name = "wddie" min="4" max = "20">
+
+</p></div>
+<div class = "buttonfield" id="enemybuttons">
+    <label for = "quantity">Enemy HP</label>
+    <input type = "number" id = "enemy_hp" name = "AC" min="1" max = "40">
+    <label for = "quantity">Enemy Armour Class</label>
+    <input type = "number" id = "enemy_ac" name = "AC" min="1" max = "20">
+    <label for = "quantity">Enemy Damage Dice</label>
+    <input type = "number" id = "enemy_atkdice" name = "enemy_atkdice" min="1" max = "20">
+    <label for = "quantity">Dice Type</label>
+    <input type = "number" id = "enemy_atkdie" name = "enemy_atkdie" min="1" max = "20">
+       
+</div>
+<div class = "stats" id = "urstats"></div>
+
+</div>
+<div class = "stats" id = "enstats"></div>
+
+</div>
+<div class = "battletext" id = "battletext">
+
+</div>
+<div class = "battletext" id = "battletext2"></div>
+<script src = "app.js"></script>
+
+</div>
+</body>
+</html>
