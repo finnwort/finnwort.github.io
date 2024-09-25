@@ -2,21 +2,13 @@
 
 ### Data Science
 
-April 2020: [A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
+[A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
 
-### Psychology
+[An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
 
-April 2020: [An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
-
-## About Me
-
-### Introduction 
-
-Welcome to my page! Originally hailing from Llangollen in North Wales, I am now a PhD student at the University of Warwick. 
+### Contacts
 
 ![](image0.jpeg){:height="30%" width="30%"}
-
-### Contact
 
 [Finnian.Wort@warwick.ac.uk]()
 
