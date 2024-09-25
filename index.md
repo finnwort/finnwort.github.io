@@ -4,7 +4,7 @@
 
 [An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
 
-## Contacts
+## Contact 
 
 ![](image0.jpeg){:height="30%" width="30%"}
 
