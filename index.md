@@ -4,16 +4,14 @@
 
 [An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
 
-### Contacts
+## Contacts
 
 ![](image0.jpeg){:height="30%" width="30%"}
 
-[Finnian.Wort@warwick.ac.uk]()
+[Finnian.J.Wort@warwick.ac.uk]()
+
+[finnwort@gmail.com]()
 
 [Linkedin](https://www.linkedin.com/in/finnian-wort-20242917a)
 
-[Instagram](https://www.instagram.com/finnstagram3/?hl=en)
 
-[Warwick University Behavioural Science Group](https://warwick.ac.uk/fac/sci/psych/research/behaviouralscience)
-
-[Staff Profiles](https://warwick.ac.uk/fac/sci/psych/people/phd/staffprofiles)
