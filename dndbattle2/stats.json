@@ -1,0 +1,31 @@
+{
+    "fighter":{
+        "hp":25,
+        "atkmod":5,
+        "own_ac":17,
+        "dmg_dice":2,
+        "dmg_die":4
+    },
+    "sorcerer":{
+        "hp":18,
+        "atkmod":3,
+        "own_ac":12,
+        "dmg_dice":4,
+        "dmg_die":8
+    },
+    "bard":{
+        "hp":21,
+        "atkmod":4,
+        "own_ac":15,
+        "dmg_dice":4,
+        "dmg_die":4
+    },
+    "druid":{
+        "hp":30,
+        "atkmod":5,
+        "own_ac":10,
+        "dmg_dice":2,
+        "dmg_die":4
+    }
+
+}
