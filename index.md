@@ -14,8 +14,6 @@
 
 ## Contact 
 
-![](image0.jpeg){:height="30%" width="30%"}
-
 [Finnian.J.Wort@warwick.ac.uk]()
 
 [finnwort@gmail.com]()
