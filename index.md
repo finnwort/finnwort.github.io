@@ -1,6 +1,6 @@
 ## Blog 
 
-[Predicted FPL points per game table](https://docs.google.com/spreadsheets/d/12BDbqZbtI2Y6vI-nn2GYwT5mRh5fIeQc_Tx0iGxgvP0/edit?usp=sharing)
+[FPL predictions table](https://docs.google.com/spreadsheets/d/12BDbqZbtI2Y6vI-nn2GYwT5mRh5fIeQc_Tx0iGxgvP0/edit?usp=sharing)
 
 [Getting Python to pick my FPL team](/fpl.html)
 
