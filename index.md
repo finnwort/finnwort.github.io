@@ -1,6 +1,8 @@
 ## Homepage
 ## Articles 
 
+[FPL optimal selections table](https://docs.google.com/spreadsheets/d/1EqADjVXRaWNl3gg1uIvFB7bHwiSVzjYcxTXhODA0XAY/edit?usp=sharing)
+
 [FPL predictions table](https://docs.google.com/spreadsheets/d/12BDbqZbtI2Y6vI-nn2GYwT5mRh5fIeQc_Tx0iGxgvP0/edit?usp=sharing)
 
 [Getting Python to pick my FPL team](/fpl.html)
