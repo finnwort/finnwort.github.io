@@ -1,12 +1,13 @@
 ## Blog 
+[Getting Python to pick my FPL team](/fpl.html)
 
-[DND Battle Generator 2 (JS practice)](/dndbattle2/index.html)
+[DND Battle Generator 2](/dndbattle2/index.html)
 
-[DND Battle Generator (JS practice)](/dndbattle/index.html)
+[DND Battle Generator](/dndbattle/index.html)
 
-[A Machine Learning Approach to Discovering How Countries Are Dealing With Coronavirus](COVID_model_1.md) 
+[A machine learning approach to rating response to Covid](COVID_model_1.md) 
 
-[An Old Model Written Up - Just to Practice RMD](IBDm_md.md)
+[An old model written up](IBDm_md.md)
 
 ## Contact 
 
