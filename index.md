@@ -1,7 +1,9 @@
 ## Homepage
 ## Articles 
 
-[Footballer interactive ratings checker](stat_checker.md)
+[Footballer interactive ratings checker (simple version)](stat_checker_simple.md)
+
+[Footballer interactive ratings checker (comprehensive version)](stat_checker.md)
 
 [FPL optimal selections table](https://docs.google.com/spreadsheets/d/1EqADjVXRaWNl3gg1uIvFB7bHwiSVzjYcxTXhODA0XAY/edit?usp=sharing)
 
